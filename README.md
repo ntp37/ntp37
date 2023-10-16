@@ -25,6 +25,13 @@
 </div>
 <br/>
 
+## :medal_military: Our Projects :
+- [Front-End Company website](https://github.com/ntp37/nfabrion-company-web)
+- [CRUD Employee management](https://github.com/ntp37/CRUD-HR_Management-React)
+- [Countries in the World](https://github.com/ntp37/REST-Countries-API-Next.js)
+- [Basic To-do List](https://github.com/ntp37/TO-DO-List_React_ntp37)
+<br/>
+
 ## :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ntp37&theme=github-dark)](https://git.io/streak-stats)
