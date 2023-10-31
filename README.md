@@ -26,10 +26,10 @@
 <br/>
 
 ## :medal_military: Our Projects :
-- [Front-End Company website](https://github.com/ntp37/nfabrion-company-web)
-- [CRUD Employee management](https://github.com/ntp37/CRUD-HR_Management-React)
-- [Countries in the World App](https://github.com/ntp37/REST-Countries-API-Next.js)
-- [Tasks management (To-do List)](https://github.com/ntp37/TodoList-React_ntp37.git)
+- [Front-End Company website](https://github.com/ntp37/nfabrion-company-web) ([Live Site](https://nfabrion-company.onrender.com/))
+- [CRUD Employee management](https://github.com/ntp37/CRUD-HR_Management-React) ([Live Site](https://ntp37-crud-hr-management-react.vercel.app/))
+- [Countries in the World App](https://github.com/ntp37/REST-Countries-API-Next.js) ([Live Site](https://ntp37-rest-countries-api-next-js.vercel.app/))
+- [Tasks management (To-do List)](https://github.com/ntp37/TodoList-React_ntp37.git) ([Live Site](https://ntp37-todo-list-react.netlify.app/))
 <br/>
 
 ## :fire: My Stats :
