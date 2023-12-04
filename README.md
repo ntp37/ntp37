@@ -4,12 +4,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="350"/>
 </div>
 
-## :man_technologist: About Me :
+<!--## :man_technologist: About Me :-->
 * :man_technologist: I've interested Web Application and Mobile Application development, Microcontroller, Electronics circuit. I'm ready to learn new technology to achieve my goals.
 * :earth_asia: Samut Sakhon, Thailand
 <br/>
 
-## :hammer_and_wrench: Languages and Tools :
+<!--## :hammer_and_wrench: Languages and Tools :-->
+## Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="45" height="45"/>&nbsp;
@@ -25,6 +26,7 @@
 </div>
 <br/>
 
+<!--## :medal_military: Our Projects :-->
 ## :medal_military: Our Projects :
 - [Front-End Company website](https://github.com/ntp37/nfabrion-company-web) ([Live Site](https://nfabrion-company.onrender.com/))
 - [CRUD Employee management](https://github.com/ntp37/CRUD-HR_Management-React) ([Live Site](https://ntp37-crud-hr-management-react.vercel.app/))
